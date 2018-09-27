@@ -162,3 +162,24 @@ hello
 vi $GOPATH/src/github.com/github-user/stringutil/reverse_test.go
 ```
 
+![](http://imglf3.nosdn0.126.net/img/S3F1ejdrdGNrNFVsOW5QK1BFL2VaSisyREU4dkVUUUZXaWFCanNXMDY5WWVWUFhNUzJyQ09RPT0.png?imageView&thumbnail=500x0&quality=96&stripmeta=0)
+
+> 运行测试文件
+
+```
+go test github.com/github-user/stringutil
+```
+
+![](http://imglf5.nosdn0.126.net/img/S3F1ejdrdGNrNFVsOW5QK1BFL2VaRkNHcElmTFNxYTNVTUNJNVJLSXZPdDZmM3EvNTZFWUZnPT0.png?imageView&thumbnail=500x0&quality=96&stripmeta=0)
+
+-----------
+
+## 3.4调用远程包
+> 如果我们有合法的`URL`地址，那么我们就可以远程调用了。
+
+```
+go get github.com/golang/example/hello
+$GOPATH/bin/hello
+```
+
+![](http://imglf5.nosdn0.126.net/img/S3F1ejdrdGNrNFVsOW5QK1BFL2VaRmZuazRlNEUwSjdGZlZSYjlxUjA4QkdGVzVpdTVKTjVBPT0.png?imageView&thumbnail=500x0&quality=96&stripmeta=0)
