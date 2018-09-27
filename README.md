@@ -15,7 +15,7 @@ sudo yum install golang
 go version
 ```
 
-[]("http://www.lofter.com/dashboard/#")
+![](http://www.lofter.com/dashboard/#)
 
 -------------
 
