@@ -4,6 +4,14 @@
 
 ## 1.安装golang
 ### 1.1安装
+> 使用`Windows`系统`ssh`登陆
+
+```
+ssh wyj970720@192.168.100.2
+```
+
+![](http://imglf3.nosdn0.126.net/img/S3F1ejdrdGNrNFdLaHdQVEVRTS93NC8zcTRZM1d4R2VVdVRIQitQd0UwQkRPUFJXRjYrTVZnPT0.png?imageView&thumbnail=500x0&quality=96&stripmeta=0)
+
 > 安装使用`yum`口令，需要注意的是，需要使用超级用户口令。
 
 ```
@@ -34,5 +42,5 @@ vi $HOME/gowork/profile
 
 > 编写如下
 
-[]("")
+
 
