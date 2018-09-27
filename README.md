@@ -15,7 +15,7 @@ sudo yum install golang
 go version
 ```
 
-![](http://www.lofter.com/dashboard/#)
+![](http://imglf5.nosdn0.126.net/img/S3F1ejdrdGNrNFdLaHdQVEVRTS93emE5SlhPMk1aQ1dURlRxRWNrdUVZVTRIYncvWGVoMU1BPT0.png?imageView&thumbnail=500x0&quality=96&stripmeta=0)
 
 -------------
 
